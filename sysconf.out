@@ -1,0 +1,12 @@
+USER           = vk
+WORKING_DIR    = /Users/vk/Documents/PLUTO/Test_Problems/MHD/Resistive_MHD/CS
+SYSTEM_NAME    = Darwin
+NODE_NAME      = Vinays-MacBook-Pro.local
+RELEASE        = 23.3.0
+ARCH           = arm64
+BYTE_ORDER     = little
+VERSION        = Darwin Kernel Version 23.3.0: Wed Dec 20 21:30:27 PST 2023; root:xnu-10002.81.5~7/RELEASE_ARM64_T8103
+PLUTO_DIR      = /Users/vk/Documents/PLUTO
+PLUTO_VERSION  = "4.4-patch2"
+C_COMPILER     = gcc
+MPI_C_COMPILER = 
